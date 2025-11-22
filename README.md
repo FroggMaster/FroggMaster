@@ -12,13 +12,6 @@ I’m a fan of puzzles, challenges, and security anything that makes me think, b
 ![](https://nirzak-streak-stats.vercel.app/?user=FroggMaster&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FroggMaster&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 🗂️ Top Repositories
-<div width="100%" align="center"><a href="https://github.com/FroggMaster/CreamInstaller" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FroggMaster&repo=CreamInstaller&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/FroggMaster/AuthAlwaysOnTop" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FroggMaster&repo=AuthAlwaysOnTop&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<div width="100%" align="center"><a href="https://github.com/FroggMaster/BeatSaber-IPA-Reloaded-ArrPatch" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FroggMaster&repo=BeatSaber-IPA-Reloaded-ArrPatch&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/FroggMaster/beatleader-mod-ArrPatch" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FroggMaster&repo=beatleader-mod-ArrPatch&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<div width="100%" align="center"><a href="https://github.com/FroggMaster/FlipperZero" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FroggMaster&repo=FlipperZero&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/FroggMaster/CleanMotoImg" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FroggMaster&repo=CleanMotoImg&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
 # ☕ Support Me
 <a href="https://www.buymeacoffee.com/Frogger"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me a Coffee" /></a> 
 <a href="https://www.ko-fi.com/frawgger"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" alt="Ko-fi" /></a>
